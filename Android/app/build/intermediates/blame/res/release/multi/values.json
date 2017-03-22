@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 44,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 56,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 56,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 47,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 47,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 53,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 53,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 82,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 82,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 44,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 44,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 64,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 64,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 46,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endColumn": 46,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 43,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1491,
+                        "endColumn": 43,
+                        "endOffset": 1530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 46,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1535,
+                        "endColumn": 46,
+                        "endOffset": 1577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 40,
+                    "endOffset": 626
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1582,
+                        "endColumn": 40,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 631,
+                    "endColumn": 40,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 40,
+                        "endOffset": 1659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 49,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 49,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 37,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1428,
+                        "endColumn": 37,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 49,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 49,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endColumn": 73,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 73,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 57,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 57,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 59,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 59,
+                        "endOffset": 1418
+                    }
+                }
+            }
+        ]
+    }
+]

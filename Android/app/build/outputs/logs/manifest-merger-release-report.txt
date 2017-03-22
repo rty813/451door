@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:17:1-45:12
+	package
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:18:5-29
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:21:5-22:40
+	android:targetSdkVersion
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:22:9-38
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:21:15-41
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:27:5-89
+	android:required
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:27:64-87
+	android:name
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:27:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:30:5-73
+	android:name
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:30:22-71
+application
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:32:5-44:19
+	android:label
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:32:18-50
+	android:icon
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:33:9-43
+	android:theme
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:34:9-56
+activity#com.zhang.door.DeviceControlActivity
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:37:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:40:27-74
+service#com.zhang.door.BluetoothLeService
+ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:43:9-91
+	android:enabled
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:43:67-89
+	android:name
+		ADDED from C:\Users\zhang\AndroidStudioProjects\451Door\app\src\main\AndroidManifest.xml:43:18-66

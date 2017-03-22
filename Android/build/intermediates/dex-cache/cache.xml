@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhang\AndroidStudioProjects\DeviceScanActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5322dfd2b3992433a0e6ffff7eb73d622d1405c6">
+        <dex dex="C:\Users\zhang\AndroidStudioProjects\DeviceScanActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e428cdbaba4c370636a7480abfbf40c04905797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhang\AndroidStudioProjects\451Door\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a089faf2fba84134c6aaabb879e4fff702e191d">
+        <dex dex="C:\Users\zhang\AndroidStudioProjects\451Door\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_29e5384649de771e8fef9ccd3268539417aa8aab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhang\AndroidStudioProjects\451Door\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51f31cb41dc696522ce938ca66d1e0c2d778f179">
+        <dex dex="C:\Users\zhang\AndroidStudioProjects\451Door\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_96791dfc3a28c80871c36ab890ff5ac7ceba07c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhang\AndroidStudioProjects\DeviceScanActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5768ff1a4054d933dd8827526a158f26489fbcde">
+        <dex dex="C:\Users\zhang\AndroidStudioProjects\DeviceScanActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e69065652aa6a29035db8de9477de666a1358d8\classes.dex" />
+    </item>
+
+</items>
