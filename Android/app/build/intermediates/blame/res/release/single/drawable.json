@@ -16,6 +16,10 @@
         "source": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\drawable\\up.png"
     },
     {
+        "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\res\\merged\\release\\drawable\\widget.png",
+        "source": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\drawable\\widget.png"
+    },
+    {
         "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
         "source": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     }

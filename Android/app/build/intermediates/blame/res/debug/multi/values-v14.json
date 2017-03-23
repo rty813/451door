@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values-v14\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 43,
+                        "endOffset": 255
+                    }
+                }
+            }
+        ]
+    }
+]

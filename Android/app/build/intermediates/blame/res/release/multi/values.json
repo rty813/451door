@@ -7,17 +7,17 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 44,
-                    "endOffset": 95
+                    "endColumn": 43,
+                    "endOffset": 94
                 },
                 "from": {
-                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 686,
-                        "endColumn": 44,
-                        "endOffset": 726
+                        "startOffset": 216,
+                        "endColumn": 43,
+                        "endOffset": 255
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 100,
-                    "endColumn": 56,
-                    "endOffset": 152
+                    "startOffset": 99,
+                    "endColumn": 49,
+                    "endOffset": 144
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 731,
-                        "endColumn": 56,
-                        "endOffset": 783
+                        "startOffset": 1710,
+                        "endColumn": 49,
+                        "endOffset": 1755
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 157,
-                    "endColumn": 47,
-                    "endOffset": 200
+                    "startOffset": 149,
+                    "endColumn": 44,
+                    "endOffset": 189
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 995,
-                        "endColumn": 47,
-                        "endOffset": 1038
+                        "startOffset": 685,
+                        "endColumn": 44,
+                        "endOffset": 725
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 205,
-                    "endColumn": 53,
-                    "endOffset": 254
+                    "startOffset": 194,
+                    "endColumn": 50,
+                    "endOffset": 240
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 1043,
-                        "endColumn": 53,
-                        "endOffset": 1092
+                        "startOffset": 1659,
+                        "endColumn": 50,
+                        "endOffset": 1705
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 259,
-                    "endColumn": 82,
-                    "endOffset": 337
+                    "startOffset": 245,
+                    "endColumn": 56,
+                    "endOffset": 297
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1147,
-                        "endColumn": 82,
-                        "endOffset": 1225
+                        "startOffset": 730,
+                        "endColumn": 56,
+                        "endOffset": 782
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 342,
-                    "endColumn": 44,
-                    "endOffset": 382
+                    "startOffset": 302,
+                    "endColumn": 47,
+                    "endOffset": 345
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 788,
-                        "endColumn": 44,
-                        "endOffset": 828
+                        "startOffset": 994,
+                        "endColumn": 47,
+                        "endOffset": 1037
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 387,
-                    "endColumn": 64,
-                    "endOffset": 447
+                    "startOffset": 350,
+                    "endColumn": 53,
+                    "endOffset": 399
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 833,
-                        "endColumn": 64,
-                        "endOffset": 893
+                        "startOffset": 1042,
+                        "endColumn": 53,
+                        "endOffset": 1091
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 452,
-                    "endColumn": 46,
-                    "endOffset": 494
+                    "startOffset": 404,
+                    "endColumn": 82,
+                    "endOffset": 482
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 898,
-                        "endColumn": 46,
-                        "endOffset": 940
+                        "startOffset": 1146,
+                        "endColumn": 82,
+                        "endOffset": 1224
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 499,
-                    "endColumn": 43,
-                    "endOffset": 538
+                    "startOffset": 487,
+                    "endColumn": 44,
+                    "endOffset": 527
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 34,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1491,
-                        "endColumn": 43,
-                        "endOffset": 1530
+                        "startOffset": 787,
+                        "endColumn": 44,
+                        "endOffset": 827
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 543,
-                    "endColumn": 46,
-                    "endOffset": 585
+                    "startOffset": 532,
+                    "endColumn": 64,
+                    "endOffset": 592
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 35,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1535,
-                        "endColumn": 46,
-                        "endOffset": 1577
+                        "startOffset": 832,
+                        "endColumn": 64,
+                        "endOffset": 892
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 590,
-                    "endColumn": 40,
-                    "endOffset": 626
+                    "startOffset": 597,
+                    "endColumn": 46,
+                    "endOffset": 639
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1582,
-                        "endColumn": 40,
-                        "endOffset": 1618
+                        "startOffset": 897,
+                        "endColumn": 46,
+                        "endOffset": 939
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 631,
-                    "endColumn": 40,
-                    "endOffset": 667
+                    "startOffset": 644,
+                    "endColumn": 43,
+                    "endOffset": 683
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 37,
+                        "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1623,
-                        "endColumn": 40,
-                        "endOffset": 1659
+                        "startOffset": 1486,
+                        "endColumn": 43,
+                        "endOffset": 1525
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 672,
-                    "endColumn": 49,
-                    "endOffset": 717
+                    "startOffset": 688,
+                    "endColumn": 46,
+                    "endOffset": 730
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 945,
-                        "endColumn": 49,
-                        "endOffset": 990
+                        "startOffset": 1530,
+                        "endColumn": 46,
+                        "endOffset": 1572
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 722,
-                    "endColumn": 37,
-                    "endOffset": 755
+                    "startOffset": 735,
+                    "endColumn": 40,
+                    "endOffset": 771
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 1428,
-                        "endColumn": 37,
-                        "endOffset": 1461
+                        "startOffset": 1577,
+                        "endColumn": 40,
+                        "endOffset": 1613
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 760,
-                    "endColumn": 49,
-                    "endOffset": 805
+                    "startOffset": 776,
+                    "endColumn": 40,
+                    "endOffset": 812
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1097,
-                        "endColumn": 49,
-                        "endOffset": 1142
+                        "startOffset": 1618,
+                        "endColumn": 40,
+                        "endOffset": 1654
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 810,
-                    "endColumn": 73,
-                    "endOffset": 879
+                    "startOffset": 817,
+                    "endColumn": 49,
+                    "endOffset": 862
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1289,
-                        "endColumn": 73,
-                        "endOffset": 1358
+                        "startOffset": 944,
+                        "endColumn": 49,
+                        "endOffset": 989
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 884,
-                    "endColumn": 57,
-                    "endOffset": 937
+                    "startOffset": 867,
+                    "endColumn": 37,
+                    "endOffset": 900
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1231,
-                        "endColumn": 57,
-                        "endOffset": 1284
+                        "startOffset": 1423,
+                        "endColumn": 37,
+                        "endOffset": 1456
                     }
                 }
             },
@@ -329,18 +329,75 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 942,
-                    "endColumn": 59,
-                    "endOffset": 997
+                    "startOffset": 905,
+                    "endColumn": 49,
+                    "endOffset": 950
                 },
                 "from": {
                     "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1363,
+                        "startOffset": 1096,
+                        "endColumn": 49,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 73,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 73,
+                        "endOffset": 1357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 57,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 57,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endColumn": 59,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1362,
                         "endColumn": 59,
-                        "endOffset": 1418
+                        "endOffset": 1417
                     }
                 }
             }

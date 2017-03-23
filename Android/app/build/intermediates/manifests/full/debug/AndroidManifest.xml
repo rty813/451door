@@ -50,6 +50,21 @@ limitations under the License.
         <service
             android:name="com.zhang.door.BluetoothLeService"
             android:enabled="true" />
+
+        <receiver android:name="com.zhang.door.NewAppWidget" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/new_app_widget_info" />
+        </receiver>
+
+        <service
+            android:name="com.zhang.door.AppWidgetService"
+            android:enabled="true"
+            android:exported="true" />
     </application>
 
 </manifest>

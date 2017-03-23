@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_app_widget.xml",
+        "source": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\layout\\new_app_widget.xml"
+    },
+    {
         "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
         "source": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
     },

@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:text="开门"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="?android:borderlessButtonStyle"
+        android:src="@drawable/widget"
+        android:id="@+id/button"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

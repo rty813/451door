@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
 Copyright (C) 2013 The Android Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,28 +17,53 @@ limitations under the License.
     package="com.zhang.door"
     android:versionCode="1"
     android:versionName="1.0">
-    <uses-sdk android:minSdkVersion="18"
-        android:targetSdkVersion="18"/>
-    <!-- Declare this required feature if you want to make the app available to BLE-capable
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="18" />
+    <!--
+    Declare this required feature if you want to make the app available to BLE-capable
     devices only.  If you want to make your app available to devices that don't support BLE,
     you should omit this in the manifest.  Instead, determine BLE capability by using
-    PackageManager.hasSystemFeature(FEATURE_BLUETOOTH_LE) -->
-    <uses-feature android:name="android.hardware.bluetooth_le" android:required="true"/>
+    PackageManager.hasSystemFeature(FEATURE_BLUETOOTH_LE)
+    -->
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
 
-    <uses-permission android:name="android.permission.BLUETOOTH"/>
-    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 
-    <application android:label="@string/app_name"
+    <application
         android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
         android:theme="@android:style/Theme.Holo.Light">
-
-        <activity
-            android:name="com.zhang.door.DeviceControlActivity">
+        <activity android:name=".DeviceControlActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <service android:name="com.zhang.door.BluetoothLeService" android:enabled="true"/>
+
+        <service
+            android:name=".BluetoothLeService"
+            android:enabled="true" />
+
+        <receiver android:name=".NewAppWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/new_app_widget_info" />
+        </receiver>
+
+        <service
+            android:name=".AppWidgetService"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
+
 </manifest>

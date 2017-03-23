@@ -10,5 +10,9 @@
     {
         "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\res\\merged\\release\\layout\\listitem_device.xml",
         "source": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\build\\intermediates\\res\\merged\\release\\layout\\new_app_widget.xml",
+        "source": "C:\\Users\\zhang\\AndroidStudioProjects\\451Door\\app\\src\\main\\res\\layout\\new_app_widget.xml"
     }
 ]
