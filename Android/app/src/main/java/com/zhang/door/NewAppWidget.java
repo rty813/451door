@@ -30,25 +30,13 @@ public class NewAppWidget extends AppWidgetProvider {
     public static final String EXTRAS_DEVICE_ADDRESS = "DEVICE_ADDRESS";
     private final static String TAG = DeviceControlActivity.class.getSimpleName();
 
-    static void updateAppWidget(Context context, AppWidgetManager appWidgetManager,
-                                int appWidgetId) {
+    static void updateAppWidget(Context context, AppWidgetManager appWidgetManager,int appWidgetId) {
 
-        CharSequence widgetText = context.getString(R.string.appwidget_text);
-        // Construct the RemoteViews object
         RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.new_app_widget);
-//        views.setTextViewText(R.id.appwidget_text, widgetText);
-
-
-//        Intent gattServiceIntent = new Intent(context, BluetoothLeService.class);
         Intent intentservice = new Intent();
         intentservice.setClass(context, AppWidgetService.class);
         PendingIntent pendingIntent = PendingIntent.getService(context, 0, intentservice, 0);
         views.setOnClickPendingIntent(R.id.button, pendingIntent);
-
-//        context.startService(intentservice);
-//        context.startService(new Intent(context, AppWidgetService.class));
-
-        // Instruct the widget manager to update the widget
         appWidgetManager.updateAppWidget(appWidgetId, views);
     }
 
