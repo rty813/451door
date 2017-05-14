@@ -34,9 +34,6 @@ int main(void)
 		USART_RX_STA = 0;
 		delay_ms(1000);
 		delay_ms(1000);
-		delay_ms(1000);
-		delay_ms(1000);
-		delay_ms(1000);
 		DOOR = 0;
 	}
 
