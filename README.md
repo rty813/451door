@@ -170,4 +170,4 @@
     }
 在onStartCommand方法里面，绑定了BluetoothLeService，注册了mGattUpdateReceiver，在这里有一个回调方法onServiceConnected，当服务一旦绑定成功，在这个方法里面就会调用mBluetoothLeService的connect方法，尝试连接到蓝牙串口模块。如果连接成功，会进入BroadcastReceiver里面，如果连接上，就会嗲用mBluetoothLeService的WriteValue方法，发送”451\r\n”，然后蓝牙模块接收到，单片机就会处理，这时候电磁铁上电，门闩就被拉开了。
 ## 五、效果图
-![演示]("https://github.com/rty813/451door/blob/master/demo.gif")
+![演示]("https://github.com/rty813/451door/raw/master/demo.gif")
